@@ -132,3 +132,13 @@ transportation_chart.show()
 
 ![6](https://github.com/psalmsdove/Python-supply-chain-analysis/assets/48603868/a317e089-818f-479d-b9b9-02ca8b051d20)
 
+And finally, we may check and analyze the cost by routes for each product type. We can use **scatter plot** for this. Here's how to implement scatter plot:
+
+```
+fig = px.scatter(data, x='Product type', y='Costs', color='Routes', title='Cost - Route and Product Types')
+fig.show()
+```
+
+This is the chart:
+
+![7](https://github.com/psalmsdove/Python-company-analysis/assets/48603868/9c9ca81e-ee3c-4d5f-bbd0-9a1e6bc6e277)
