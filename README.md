@@ -1,4 +1,38 @@
-# Python company analysis
+# Python Company Analysis
+
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/company-data-analysis/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-311/)
+
+Welcome to the Company Data Analysis repository! This project aims to provide valuable insights and data-driven decisions by performing in-depth analysis on our company's datasets. Whether you are a team member, data analyst, or stakeholder, this repository will help you explore and understand various aspects of this [dataset](https://statso.io/supply-chain-analysis-case-study/).
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Analysis and Reports](#analysis-and-reports)
+
+## Project Overview
+
+In a data-driven world, the ability to harness the power of data has become essential for businesses. This repository serves as a central hub for our company's data analysis efforts. From sales performance and customer behavior to inventory management and financial trends, we delve into various datasets to extract valuable information and answer critical business questions.
+
+Key objectives of this project include:
+
+- Gaining actionable insights to optimize business processes and strategies.
+- Visualizing data in an intuitive manner to facilitate better understanding and communication.
+- Maximizing revenue for the company by inspecting revenue, costs and more.
+
+## Data Sources
+
+The success of data analysis heavily relies on the quality and diversity of data sources. Our repository incorporates a wide range of datasets, including but not limited to:
+
+- Sales data: Exploring revenue trends and sales performance.
+- Inventory data: Analyzing stock levels and supply chain efficiency.
+- Carrier data: Analyzing transportation types and costs 
+
+## Analysis and Reports
+
+I continuously update this repository with the latest analysis and reports. Each analysis is thoroughly documented and presented using Python, Pandas, and interactive visualizations created with Plotly. 
 
 In this repo, we'll use **Python, Pandas and Plotly** libraries to analyze some data from a dataset I've taken from a website. We are using VSCode Interactive Window to run codes. [Here's](https://stackoverflow.com/questions/64730660/how-do-i-find-excute-python-interactive-mode-in-visual-studio-code) how you can use Interactive Window.
 
